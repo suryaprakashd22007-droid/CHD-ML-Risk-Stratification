@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+
+# Streamlit config / cache
+.streamlit/
+
+# Database files
+database/*.db
+*.db
+*.sqlite3
+
+# Saved models (optional to keep or ignore; here we keep generated models in repo or scratch)
+# models/saved_models/*.pkl
